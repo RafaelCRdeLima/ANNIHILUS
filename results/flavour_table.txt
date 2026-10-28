@@ -1,0 +1,93 @@
+default|0.00                 gain_rot 1.589  gain_loc 1.561  gain_static 1.571  Pbar/P (lepton) 0.289
+                             vs flatrot: delta  1.40% (lepton  0.87%)  delta_total  1.22%  profiles: uniform 1.40% inner 0.64% outer 0.65% normal 3.07% grazing 1.26% inner-grazing 1.31%
+                                sweep (36 cases): median 2.56%  max 4.56%;  x 6 profiles: max 4.56%
+                             vs flatloc: delta  1.38% (lepton  0.55%)  profiles: uniform 1.38% inner 0.15% outer 0.67% normal 2.83% grazing 1.46% inner-grazing 1.59%
+                                sweep (36 cases): median 2.73%  max 5.06%;  x 6 profiles: max 5.06%
+default|0.90                 gain_rot 2.148  gain_loc 2.213  gain_static 2.461  Pbar/P (lepton) --
+                             vs flatrot: delta  0.41% (lepton   --  )  delta_total  0.40%  profiles: uniform 0.41% inner 0.46% outer 1.52% normal 3.36% grazing 3.17% inner-grazing 1.79%
+                                sweep (36 cases): median 2.90%  max 4.80%;  x 6 profiles: max 9.58%
+                             vs flatloc: delta  0.44% (lepton   --  )  profiles: uniform 0.44% inner 0.59% outer 1.75% normal 3.44% grazing 3.22% inner-grazing 1.76%
+                                sweep (36 cases): median 2.99%  max 4.94%;  x 6 profiles: max 10.00%
+default|0.99                 gain_rot 3.398  gain_loc 4.724  gain_static 5.288  Pbar/P (lepton) 11.866
+                             vs flatrot: delta  0.61% (lepton  1.42%)  delta_total  0.27%  profiles: uniform 0.61% inner 1.02% outer 3.39% normal 4.24% grazing 4.38% inner-grazing 1.28%
+                                sweep (36 cases): median 2.70%  max 4.64%;  x 6 profiles: max 20.39%
+                             vs flatloc: delta  0.54% (lepton  1.28%)  profiles: uniform 0.54% inner 2.26% outer 5.95% normal 3.43% grazing 3.87% inner-grazing 1.64%
+                                sweep (36 cases): median 3.25%  max 5.54%;  x 6 profiles: max 21.51%
+disjoint|0.00                gain_rot 1.600  gain_loc 1.581  gain_static 1.563  Pbar/P (lepton) 1.328
+                             vs flatrot: delta  0.67% (lepton  0.93%)  delta_total  1.84%  profiles: uniform 0.67% inner 0.51% outer 0.13% normal 3.34% grazing 1.88% inner-grazing 1.73%
+                                sweep (36 cases): median 8.59%  max 14.24%;  x 6 profiles: max 14.24%
+                             vs flatloc: delta  0.95% (lepton  0.96%)  profiles: uniform 0.95% inner 1.48% outer 0.44% normal 2.41% grazing 2.63% inner-grazing 2.42%
+                                sweep (36 cases): median 6.50%  max 11.35%;  x 6 profiles: max 11.35%
+disjoint|0.90                gain_rot 2.332  gain_loc 2.382  gain_static 2.378  Pbar/P (lepton) 0.595
+                             vs flatrot: delta  1.62% (lepton  0.87%)  delta_total  8.81%  profiles: uniform 1.62% inner 2.16% outer 0.57% normal 8.54% grazing 5.85% inner-grazing 5.70%
+                                sweep (36 cases): median 15.47%  max 24.81%;  x 6 profiles: max 24.81%
+                             vs flatloc: delta  2.43% (lepton  1.22%)  profiles: uniform 2.43% inner 1.26% outer 1.10% normal 9.58% grazing 5.24% inner-grazing 5.18%
+                                sweep (36 cases): median 17.67%  max 28.24%;  x 6 profiles: max 28.24%
+disjoint|0.99                gain_rot 3.998  gain_loc 5.028  gain_static 4.941  Pbar/P (lepton) 0.618
+                             vs flatrot: delta  2.54% (lepton  1.12%)  delta_total 20.03%  profiles: uniform 2.54% inner 1.68% outer 0.11% normal 9.22% grazing 6.04% inner-grazing 8.24%
+                                sweep (36 cases): median 45.79%  max 82.50%;  x 6 profiles: max 82.50%
+                             vs flatloc: delta 12.63% (lepton 12.90%)  profiles: uniform 12.63% inner 13.16% outer 7.10% normal 1.54% grazing 14.92% inner-grazing 15.76%
+                                sweep (36 cases): median 82.52%  max 140.79%;  x 6 profiles: max 140.79%
+disjoint_pt|0.00             gain_rot 1.420  gain_loc 1.418  Pbar/P (lepton) 0.748
+                             vs flatrot: delta  4.04% (lepton  3.84%)  profiles: uniform 4.04% inner 1.88% outer 3.04% normal 5.59% grazing 0.23% inner-grazing 0.69%
+                                sweep (36 cases): median 5.64%  max 10.57%;  x 6 profiles: max 10.57%
+                             vs flatloc: delta  3.33% (lepton  3.00%)  profiles: uniform 3.33% inner 0.88% outer 2.40% normal 4.75% grazing 0.53% inner-grazing 1.22%
+                                sweep (36 cases): median 4.77%  max 9.39%;  x 6 profiles: max 9.39%
+disjoint_pt|0.90             gain_rot 2.052  gain_loc 2.068  Pbar/P (lepton) 0.509
+                             vs flatrot: delta  6.11% (lepton  5.10%)  profiles: uniform 6.11% inner 2.08% outer 4.77% normal 12.37% grazing 2.81% inner-grazing 3.32%
+                                sweep (36 cases): median 10.65%  max 19.16%;  x 6 profiles: max 19.80%
+                             vs flatloc: delta  6.82% (lepton  5.93%)  profiles: uniform 6.82% inner 2.82% outer 5.34% normal 13.17% grazing 2.32% inner-grazing 2.99%
+                                sweep (36 cases): median 11.54%  max 20.82%;  x 6 profiles: max 21.07%
+disjoint_pt|0.99             gain_rot 3.306  gain_loc 3.733  Pbar/P (lepton) 0.439
+                             vs flatrot: delta  4.86% (lepton  3.59%)  profiles: uniform 4.86% inner 3.85% outer 1.74% normal 0.79% grazing 5.33% inner-grazing 6.83%
+                                sweep (36 cases): median 28.58%  max 47.96%;  x 6 profiles: max 47.96%
+                             vs flatloc: delta 12.25% (lepton 13.66%)  profiles: uniform 12.25% inner 13.95% outer 7.58% normal 8.74% grazing 12.14% inner-grazing 12.14%
+                                sweep (36 cases): median 43.33%  max 73.94%;  x 6 profiles: max 73.94%
+disjoint_sT0.25|0.90         gain_rot 1.685  gain_loc 1.693  Pbar/P (lepton) 0.975
+                             vs flatrot: delta 21.78% (lepton 21.49%)  profiles: uniform 21.78% inner 4.34% outer 17.79% normal 20.06% grazing 3.01% inner-grazing 3.23%
+                                sweep (36 cases): median 8.20%  max 26.56%;  x 6 profiles: max 26.56%
+                             vs flatloc: delta 24.35% (lepton 24.06%)  profiles: uniform 24.35% inner 5.88% outer 19.66% normal 22.03% grazing 4.27% inner-grazing 2.58%
+                                sweep (36 cases): median 9.10%  max 29.58%;  x 6 profiles: max 29.58%
+disjoint_sT0.75|0.90         gain_rot 2.468  gain_loc 2.530  Pbar/P (lepton) --
+                             vs flatrot: delta  0.42% (lepton   --  )  profiles: uniform 0.42% inner 0.68% outer 0.60% normal 7.66% grazing 3.89% inner-grazing 2.36%
+                                sweep (36 cases): median 14.17%  max 24.20%;  x 6 profiles: max 25.18%
+                             vs flatloc: delta  0.26% (lepton   --  )  profiles: uniform 0.26% inner 0.15% outer 0.46% normal 8.20% grazing 3.59% inner-grazing 2.04%
+                                sweep (36 cases): median 16.37%  max 28.05%;  x 6 profiles: max 28.59%
+default_pt|0.00              gain_rot 1.428  gain_loc 1.418  Pbar/P (lepton) 0.627
+                             vs flatrot: delta  3.43% (lepton  3.18%)  profiles: uniform 3.43% inner 1.63% outer 2.62% normal 4.20% grazing 0.34% inner-grazing 0.33%
+                                sweep (36 cases): median 2.61%  max 5.56%;  x 6 profiles: max 5.56%
+                             vs flatloc: delta  3.37% (lepton  2.98%)  profiles: uniform 3.37% inner 1.22% outer 2.55% normal 3.96% grazing 0.12% inner-grazing 0.56%
+                                sweep (36 cases): median 2.55%  max 5.62%;  x 6 profiles: max 5.62%
+default_pt|0.90              gain_rot 1.965  gain_loc 1.990  Pbar/P (lepton) 8.432
+                             vs flatrot: delta  0.29% (lepton  0.46%)  profiles: uniform 0.29% inner 0.45% outer 1.17% normal 3.08% grazing 2.62% inner-grazing 0.93%
+                                sweep (36 cases): median 1.97%  max 3.23%;  x 6 profiles: max 8.08%
+                             vs flatloc: delta  0.29% (lepton  0.47%)  profiles: uniform 0.29% inner 0.51% outer 1.28% normal 3.11% grazing 2.65% inner-grazing 0.92%
+                                sweep (36 cases): median 2.02%  max 3.32%;  x 6 profiles: max 8.19%
+default_pt|0.99              gain_rot 2.910  gain_loc 3.545  Pbar/P (lepton) 2.747
+                             vs flatrot: delta  0.23% (lepton  0.25%)  profiles: uniform 0.23% inner 1.49% outer 3.01% normal 0.77% grazing 1.83% inner-grazing 0.86%
+                                sweep (36 cases): median 1.65%  max 2.73%;  x 6 profiles: max 11.71%
+                             vs flatloc: delta  0.23% (lepton  0.24%)  profiles: uniform 0.23% inner 2.09% outer 4.33% normal 0.34% grazing 1.50% inner-grazing 1.03%
+                                sweep (36 cases): median 1.50%  max 2.48%;  x 6 profiles: max 13.54%
+default_sT0.25|0.90          gain_rot 1.780  gain_loc 1.809  Pbar/P (lepton) 0.845
+                             vs flatrot: delta  3.77% (lepton  3.28%)  profiles: uniform 3.77% inner 0.23% outer 1.37% normal 4.48% grazing 1.77% inner-grazing 1.50%
+                                sweep (36 cases): median 6.06%  max 12.48%;  x 6 profiles: max 12.70%
+                             vs flatloc: delta  3.96% (lepton  3.45%)  profiles: uniform 3.96% inner 0.31% outer 1.26% normal 4.61% grazing 1.75% inner-grazing 1.42%
+                                sweep (36 cases): median 6.33%  max 13.03%;  x 6 profiles: max 13.31%
+default_sT0.75|0.90          gain_rot 2.359  gain_loc 2.441  Pbar/P (lepton) 2.397
+                             vs flatrot: delta  0.15% (lepton  0.15%)  profiles: uniform 0.15% inner 0.53% outer 0.98% normal 4.21% grazing 3.34% inner-grazing 2.11%
+                                sweep (36 cases): median 0.68%  max 1.13%;  x 6 profiles: max 12.33%
+                             vs flatloc: delta  0.14% (lepton  0.15%)  profiles: uniform 0.14% inner 0.50% outer 1.09% normal 4.29% grazing 3.38% inner-grazing 2.14%
+                                sweep (36 cases): median 0.67%  max 1.11%;  x 6 profiles: max 12.57%
+xinner|0.00                  gain_rot 1.589  gain_static 1.571  Pbar/P (lepton) 0.289
+                             vs flatrot: delta  1.40% (lepton  0.87%)  delta_total  1.22%
+                                sweep (36 cases): median 2.56%  max 4.56%;  x 1 profiles: max 4.56%
+xinner|0.90                  gain_rot 2.268  gain_loc 2.327  gain_static 2.442  Pbar/P (lepton) 0.573
+                             vs flatrot: delta  3.77% (lepton  2.42%)  delta_total  3.97%  profiles: uniform 3.77% inner 0.48% outer 2.60% normal 7.99% grazing 4.09% inner-grazing 4.52%
+                                sweep (36 cases): median 5.69%  max 11.01%;  x 6 profiles: max 11.01%
+                             vs flatloc: delta  4.05% (lepton  2.82%)  profiles: uniform 4.05% inner 0.23% outer 2.75% normal 8.45% grazing 3.86% inner-grazing 4.28%
+                                sweep (36 cases): median 5.90%  max 11.37%;  x 6 profiles: max 11.37%
+xinner|0.99                  gain_rot 3.830  gain_loc 5.098  gain_static 5.273  Pbar/P (lepton) 0.600
+                             vs flatrot: delta  4.23% (lepton  1.92%)  delta_total  6.83%  profiles: uniform 4.23% inner 2.03% outer 2.37% normal 2.42% grazing 2.28% inner-grazing 2.46%
+                                sweep (36 cases): median 8.53%  max 17.12%;  x 6 profiles: max 21.03%
+                             vs flatloc: delta  7.40% (lepton  6.46%)  profiles: uniform 7.40% inner 4.42% outer 4.26% normal 2.37% grazing 5.32% inner-grazing 5.55%
+                                sweep (36 cases): median 11.04%  max 20.90%;  x 6 profiles: max 21.55%

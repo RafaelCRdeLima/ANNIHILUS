@@ -1,0 +1,6 @@
+output/
+figures/
+data/published_values.json
+src/*.o
+python/annihilus/libannihilus.so
+__pycache__/

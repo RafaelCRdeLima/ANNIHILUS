@@ -1,0 +1,21 @@
+default a=0.0: done
+default a=0.9: done
+default a=0.99: done
+disjoint a=0.0: done
+disjoint a=0.9: done
+disjoint a=0.99: done
+disjoint_pt a=0.0: done
+disjoint_pt a=0.9: done
+disjoint_pt a=0.99: done
+disjoint_sT0.25 a=0.9: done
+disjoint_sT0.75 a=0.9: done
+default_pt a=0.0: done
+default_pt a=0.9: done
+default_pt a=0.99: done
+default_sT0.25 a=0.9: done
+default_sT0.75 a=0.9: done
+xinner a=0.0: done
+xinner a=0.9: done
+xinner a=0.99: done
+flatrot: largest excess 0.035 percentage points at ('xinner', '', 0.99, 1.5, 1.0, 1.0, 'uniform'); smallest R_flat 0.161
+flatloc: largest excess 0.050 percentage points at ('disjoint', '_pt', 0.99, 1.5, 1.5, 1.0, 'uniform'); smallest R_flat 0.161

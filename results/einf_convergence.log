@@ -1,0 +1,8 @@
+DA1 a=0.9999 inner=1.1: E_loc     4.609  sqrt(-g) qdot_ZAMO    0.789  E_inf 0.3284  E_inf_up 0.1886
+DA1 a=0.9999 inner=1.01: E_loc   179.071  sqrt(-g) qdot_ZAMO    3.877  E_inf 0.3763  E_inf_up 0.1862
+DA1 a=0.9999 inner=1.001: E_loc   967.694  sqrt(-g) qdot_ZAMO    8.040  E_inf 0.3940  E_inf_up 0.1863
+DA1 a=0.9999 inner=1.0001: E_loc  1956.773  sqrt(-g) qdot_ZAMO    9.711  E_inf 0.3962  E_inf_up 0.1863
+A1 a=0.9999 inner=1.1: E_loc    61.090  sqrt(-g) qdot_ZAMO   11.742  E_inf 5.6668  E_inf_up 3.9325
+A1 a=0.9999 inner=1.01: E_loc  2312.607  sqrt(-g) qdot_ZAMO   51.594  E_inf 6.2834  E_inf_up 3.9116
+A1 a=0.9999 inner=1.001: E_loc 12530.317  sqrt(-g) qdot_ZAMO  105.473  E_inf 6.5110  E_inf_up 3.9117
+A1 a=0.9999 inner=1.0001: E_loc 25722.854  sqrt(-g) qdot_ZAMO  127.676  E_inf 6.5405  E_inf_up 3.9119
